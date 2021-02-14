@@ -29,7 +29,7 @@ For any Suggestion / Ideas ping me at [@milan_panchal24](https://twitter.com/mil
 ## Get in touch
 
 * Twitter: https://twitter.com/milan_panchal24
-* Medium: https://medium.com/@milanpanchal24
+* Medium: https://milanpanchal24.medium.com
 * Github: https://github.com/milanpanchal
 * HackerRank: https://www.hackerrank.com/milanpanchal?hr_r=1
 * StackOverflow: https://stackoverflow.com/users/1748956/milanpanchal
